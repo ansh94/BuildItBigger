@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libshowjokes</string>
+    <string name="sample_joke">This is a joke</string>
+</resources>
